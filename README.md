@@ -34,7 +34,7 @@ Encargado de desarrollar e implementar  soluciones de software
    
 6. Valeria Milagros Ccoa Banda 
 
-![foto valeria](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20Valeria.jpg?token=GHSAT0AAAAAACQILNBXW6I7I2YQYPLF327GZQPRBEQ)
+![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20Valeria.jpg?token=GHSAT0AAAAAACQILNBXW6I7I2YQYPLF327GZQPRBEQ)
 
    La oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
 
