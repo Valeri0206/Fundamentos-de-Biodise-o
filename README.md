@@ -2,6 +2,11 @@
 Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad médica
 ## Integrantes:
 1. Jose Martin Orellana
+
+![](https://github.com/Valeri0206/FBIO/blob/main/Foto%20Jos%C3%A9.jpeg)
+
+   Me apasiona el fútbol, pasar tiempo en la cocina y explorar nuevas ideas a través de la investigación. Siempre estoy buscando aprender algo nuevo y compartir lo que descubro con los demás.
+
 2. Andre Miguel Canchucaja Torres
 3. Andrea del Carmen Aliaga Alcantara
 4. Fabiana Maria Huiman Vasquez
@@ -16,9 +21,11 @@ desarrollo de dispositivos biomecánicos y a investigación de biomateriales
 
 Encargado de desarrollar e implementar  soluciones de software
    
-7. Valeria Milagros Ccoa Banda 
+6. Valeria Milagros Ccoa Banda 
 
 ![](https://github.com/Valeri0206/FBIO/blob/main/Foto%20Valeria.jpg)
+
+   La oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
 
 Fabiana Maria Huiman Vásquez - Investigación y Redacción
 
