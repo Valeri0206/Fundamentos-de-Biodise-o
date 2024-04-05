@@ -3,26 +3,40 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 ## Integrantes:
 1. Jose Martin Orellana
 
-![](https://github.com/Valeri0206/FBIO/blob/main/Foto%20Jose.jpg?raw=true)
+![Foto Jose](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/3fbeb448-033d-4c3c-8047-9e4935d1a622)
 
-   Me apasiona el fútbol, pasar tiempo en la cocina y explorar nuevas ideas a través de la investigación. Siempre estoy buscando aprender algo nuevo y compartir lo que descubro con los demás.
+
+   Me encanta la ingeniería biomédica con especialización en ingeniería clínica porque me permite combinar mi amor por la tecnología con mi interés en mejorar la atención médica. Trabajar en equipos para mantener equipos médicos funcionando al máximo y mejorar la calidad de vida de las personas es lo que me motiva. ¡Es genial poder marcar la diferencia en el campo de la salud!
+
+   ### Coordinador general
+
+   Encargado de supervisar los avances del equipo y mantener una buena comunicación entre el coodinador y el equipo
 
 2. Andre Miguel Canchucaja Torres
 
 ![Foto Andre](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/6141a425-06b8-4bb8-b11e-eeadb8c8aee2)
 
+   Concevir los conocimientos que se llevarán a lo largo del curso, con el objetivo de usar estas herramientas en el ámbito profesional.
 
-4. Andrea del Carmen Aliaga Alcantara
+### Modelo de 3D
+
+   Encargado de diseñar el prototipo en la plataforma de Inventor, modelado e impresión 3D 
+
+3. Andrea del Carmen Aliaga Alcantara
 
 ![Foto andrea](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/0c650e9c-b8cc-4b92-8ea2-892a75347a28)
 
 Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tejidos y biotecnología. Espero obtener nuevos conocimientos y compartir con los demás.
+
+  ### Electronica
+
 
 4. Fabiana Maria Huiman Vasquez - Investigación y Redacción
 
 ![fabiana](https://github.com/Valeri0206/Val/assets/164528953/f9925b68-85d8-4a89-8bcf-eb05a7fa13cf)
 
 Soy alumna de la carrera de Ingeniería biomédica. Mi área de interés es el de tejidos y biomateriales para poder de fomentar las investigaciones y aplicaciones de la medicina regenerativa en el Perú.
+
 
 5. Franco Eduardo Hurtado Mollinedo
 
@@ -40,7 +54,8 @@ Encargado de desarrollar e implementar  soluciones de software
 ![Foto](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/7b6029b3-28e6-456b-b8d8-815d38e39fd7)
 
 
-   La oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
+  Aumna de Ing. Biomedica que busca la oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
 
+    ### Diseño y encargado de GitHub
 
 #### Concevir los conocimientos que se llevarán a lo largo del curso, con el objetivo de usar estas herramientas en el ámbito profesional.
