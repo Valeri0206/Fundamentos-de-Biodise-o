@@ -8,7 +8,11 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
    Me apasiona el fútbol, pasar tiempo en la cocina y explorar nuevas ideas a través de la investigación. Siempre estoy buscando aprender algo nuevo y compartir lo que descubro con los demás.
 
 2. Andre Miguel Canchucaja Torres
+
 3. Andrea del Carmen Aliaga Alcantara
+
+Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tejidos y biotecnología. Espero obtener nuevos conocimientos y compartir con los demás.
+
 4. Fabiana Maria Huiman Vasquez - Investigación y Redacción
 
 Soy alumna de la carrera de Ingeniería biomédica. Mi área de interés es el de tejidos y biomateriales para poder de fomentar las investigaciones y aplicaciones de la medicina regenerativa en el Perú.
