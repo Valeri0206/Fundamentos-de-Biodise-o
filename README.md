@@ -3,7 +3,7 @@ Dise√±ar, crear y fabricar prototipos funcionales que resuelvan una necesidad m√
 ## Integrantes:
 1. Jose Martin Orellana
 2. Andre Miguel Canchucaja Torres
-3.  Andrea del Carmen Aliaga Alcantara
+3. Andrea del Carmen Aliaga Alcantara
 4. Fabiana Maria Huiman Vasquez
 5. Franco Eduardo Hurtado Mollinedo
 
