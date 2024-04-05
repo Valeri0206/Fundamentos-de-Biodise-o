@@ -11,7 +11,7 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 
 3. Andrea del Carmen Aliaga Alcantara
 
-![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20andrea.jpg?token=GHSAT0AAAAAACQILNBX6ZVXJ6IRIV4MU4U6ZQPRY6Q)
+![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20andrea.jpg?token=GHSAT0AAAAAACQSA6MIOS2AOTFBEOXLHAWEZQP75XQ)
 
 Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tejidos y biotecnología. Espero obtener nuevos conocimientos y compartir con los demás.
 
@@ -34,7 +34,7 @@ Encargado de desarrollar e implementar  soluciones de software
    
 6. Valeria Milagros Ccoa Banda 
 
-![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20Valeria.jpg?token=GHSAT0AAAAAACQILNBWHB65OQ6HRNJSN4Z2ZQPRZQA)
+![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20Valeria.jpg?token=GHSAT0AAAAAACQSA6MJJFNZ6OLDBPNTVH6KZQP75EQ)
 
    La oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
 
