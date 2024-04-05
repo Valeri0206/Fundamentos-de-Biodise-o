@@ -11,7 +11,7 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 
 3. Andrea del Carmen Aliaga Alcantara
 
-![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20andrea..png?token=GHSAT0AAAAAACQSA6MJSIBATUOHQUJT2UJCZQQAS3Q)
+![Foto andrea](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/0c650e9c-b8cc-4b92-8ea2-892a75347a28)
 
 Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tejidos y biotecnología. Espero obtener nuevos conocimientos y compartir con los demás.
 
@@ -21,7 +21,7 @@ Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tej
 
 Soy alumna de la carrera de Ingeniería biomédica. Mi área de interés es el de tejidos y biomateriales para poder de fomentar las investigaciones y aplicaciones de la medicina regenerativa en el Perú.
 
-6. Franco Eduardo Hurtado Mollinedo
+5. Franco Eduardo Hurtado Mollinedo
 
    ![0EAEA15E-12F4-4951-99DE-8E06C782BCE0](https://github.com/Valeri0206/Val/assets/164529414/c4b2f527-ff7c-4d53-90d0-cdb1a061461f)
 
@@ -34,7 +34,8 @@ Encargado de desarrollar e implementar  soluciones de software
    
 6. Valeria Milagros Ccoa Banda 
 
-![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto..png?token=GHSAT0AAAAAACQSA6MJKCD35LUU4QPXO3CYZQQAQKA)
+![Foto](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/7b6029b3-28e6-456b-b8d8-815d38e39fd7)
+
 
    La oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
 
