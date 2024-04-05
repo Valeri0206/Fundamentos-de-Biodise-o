@@ -19,5 +19,10 @@ Encargado de desarrollar e implementar  soluciones de software
 7. Valeria Milagros Ccoa Banda 
 
 ![](https://github.com/Valeri0206/FBIO/blob/main/Foto%20Valeria.jpg)
+
+Fabiana Maria Huiman Vásquez - Investigación y Redacción
+
+Alumna de la carrera de Ingeniería biomédica. Su área de interés es el de tejidos y biomateriales para poder de fomentar las investigaciones y aplicaciones de la medicina regenerativa en el Perú.
+
 #### La oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
 #### Concevir los conocimientos que se llevarán a lo largo del curso, con el objetivo de usar estas herramientas en el ámbito profesional.
