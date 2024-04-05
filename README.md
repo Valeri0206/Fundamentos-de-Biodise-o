@@ -8,5 +8,5 @@ Dise√±ar, crear y fabricar prototipos funcionales que resuelvan una necesidad m√
 5. Franco Eduardo Hurtado Mollinedo
 6. Valeria Milagros Ccoa Banda 
 
-![](https://github.com/Thun22/FBIO/blob/main/Foto%20Valeria.jpg)
+![](https://github.com/Valeri0206/FBIO/blob/main/Foto%20Valeria.jpg)
 #### La oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
