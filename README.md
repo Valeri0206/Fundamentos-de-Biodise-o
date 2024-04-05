@@ -3,13 +3,15 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 ## Integrantes:
 1. Jose Martin Orellana
 
-![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20Jose.jpg?token=GHSAT0AAAAAACQILNBWOT74X3NYT7QVL7NEZQPQJCQ)
+![](https://github.com/Valeri0206/FBIO/blob/main/Foto%20Jose.jpg?raw=true)
 
    Me apasiona el fútbol, pasar tiempo en la cocina y explorar nuevas ideas a través de la investigación. Siempre estoy buscando aprender algo nuevo y compartir lo que descubro con los demás.
 
 2. Andre Miguel Canchucaja Torres
 
 3. Andrea del Carmen Aliaga Alcantara
+
+![](https://raw.githubusercontent.com/Thun22/FBIO/main/Foto%20andrea.jpg?token=GHSAT0AAAAAACQSFCP35THHJBQFM5PWXLZKZQPRE5A)
 
 Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tejidos y biotecnología. Espero obtener nuevos conocimientos y compartir con los demás.
 
@@ -32,7 +34,7 @@ Encargado de desarrollar e implementar  soluciones de software
    
 6. Valeria Milagros Ccoa Banda 
 
-![](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20Valeria.jpg?token=GHSAT0AAAAAACQILNBXWL4ZNXL3DZOBRQT6ZQPQF2Q)
+![foto valeria](https://raw.githubusercontent.com/Valeri0206/FBIO/main/Foto%20Valeria.jpg?token=GHSAT0AAAAAACQILNBXW6I7I2YQYPLF327GZQPRBEQ)
 
    La oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
 
