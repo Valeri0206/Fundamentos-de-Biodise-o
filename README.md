@@ -10,7 +10,7 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 2. Andre Miguel Canchucaja Torres
 3. Andrea del Carmen Aliaga Alcantara
 4. Fabiana Maria Huiman Vasquez - Investigación y Redacción
-5. 
+
 Soy alumna de la carrera de Ingeniería biomédica. Mi área de interés es el de tejidos y biomateriales para poder de fomentar las investigaciones y aplicaciones de la medicina regenerativa en el Perú.
 
 6. Franco Eduardo Hurtado Mollinedo
