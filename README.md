@@ -15,7 +15,7 @@ Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tej
 
 4. Fabiana Maria Huiman Vasquez - Investigación y Redacción
 
-![fabiana](https://github.com/Valeri0206/Val/assets/164528953/00f9fc2a-8f42-46cc-ba00-dc2398bc16c9)
+![fabiana](https://github.com/Valeri0206/Val/assets/164528953/f9925b68-85d8-4a89-8bcf-eb05a7fa13cf)
 
 Soy alumna de la carrera de Ingeniería biomédica. Mi área de interés es el de tejidos y biomateriales para poder de fomentar las investigaciones y aplicaciones de la medicina regenerativa en el Perú.
 
