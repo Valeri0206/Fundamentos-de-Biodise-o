@@ -9,7 +9,10 @@ Dise√±ar, crear y fabricar prototipos funcionales que resuelvan una necesidad m√
 
 2. Andre Miguel Canchucaja Torres
 
-3. Andrea del Carmen Aliaga Alcantara
+![Foto Andre](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/6141a425-06b8-4bb8-b11e-eeadb8c8aee2)
+
+
+4. Andrea del Carmen Aliaga Alcantara
 
 ![Foto andrea](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/0c650e9c-b8cc-4b92-8ea2-892a75347a28)
 
