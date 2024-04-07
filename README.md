@@ -52,7 +52,7 @@ Alumno de Ingeniería Biomédica con interés en el desarrollo de dispositivos b
 
    Encargado de desarrollar y estructurar la interfaz del software que se va a utilizar.
    
-### 5. Valeria Milagros Ccoa Banda 
+### 6. Valeria Milagros Ccoa Banda 
 
 ![Foto](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/7b6029b3-28e6-456b-b8d8-815d38e39fd7)
 
