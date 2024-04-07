@@ -10,7 +10,7 @@ Me encanta la ingeniería biomédica con especialización en ingeniería clínic
 
    ### *Rol: Coordinador general*
 
-   Encargado de supervisar los avances del equipo y mantener una asertiva comunicación entre el coodinador y el equipo.
+    Encargado de supervisar los avances del equipo y mantener una asertiva comunicación entre el coodinador y el equipo.
 
 ### 2. Andre Miguel Canchucaja Torres
 
