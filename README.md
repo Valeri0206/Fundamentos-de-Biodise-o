@@ -10,7 +10,7 @@ Me encanta la ingeniería biomédica con especialización en ingeniería clínic
 
    ### *Rol: Coordinador general*
 
-    Encargado de supervisar los avances del equipo y mantener una asertiva comunicación entre el coodinador y el equipo.
+   Encargado de supervisar los avances del equipo y mantener una asertiva comunicación entre el coodinador y el equipo.
 
 ### 2. Andre Miguel Canchucaja Torres
 
@@ -29,6 +29,7 @@ Concevir los conocimientos que se llevarán a lo largo del curso, con el objetiv
 Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tejidos y biotecnología. Espero obtener nuevos conocimientos y compartir con los demás.
 
    ### *Rol: Electrónica*
+   
    Encargada de supervisar y gestionar todas las actividades relacionadas con el diseño, desarrollo y funcionamiento de los componentes electrónicos
 
 ### 4. Fabiana Maria Huiman Vasquez
@@ -39,23 +40,26 @@ Soy alumna de la carrera de Ingeniería biomédica. Mi área de interés es el d
 
    ### *Rol: Investigación y redacción*
 
+   Encargada de organizar los datos encontrados en la invetsigación y redacción de entregables.
+
 ### 5. Franco Eduardo Hurtado Mollinedo
 
    ![0EAEA15E-12F4-4951-99DE-8E06C782BCE0](https://github.com/Valeri0206/Val/assets/164529414/c4b2f527-ff7c-4d53-90d0-cdb1a061461f)
 
-   Alumno de Ing. Biomedica con interés
-desarrollo de dispositivos biomecánicos y a investigación de biomateriales
+Alumno de Ingeniería Biomédica con interés en el desarrollo de dispositivos biomecánicos y a investigación de biomateriales.
  
    ### *Rol: Diseño del software*
 
-Encargado de desarrollar e implementar  soluciones de software
+   Encargado de desarrollar y estructurar la interfaz del software que se va a utilizar.
    
 ### 5. Valeria Milagros Ccoa Banda 
 
 ![Foto](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/7b6029b3-28e6-456b-b8d8-815d38e39fd7)
 
 
-  Aumna de Ing. Biomedica que busca la oportunidad de innovar en nuevas tecnologias que impactan directamente en la salud y el bienestar de las personas
+  Aumna de Ingeniería Biomédica que busca la oportunidad de innovar en nuevas tecnologías que impactan directamente en la salud y el bienestar de las personas.
 
    ### *Rol: Encargada del Github*
-
+   
+   Encargada de gestionar todos los recursos que son parte del repositorio del Github.
+   
