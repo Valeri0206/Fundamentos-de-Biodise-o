@@ -8,7 +8,7 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 
    Me encanta la ingeniería biomédica con especialización en ingeniería clínica porque me permite combinar mi amor por la tecnología con mi interés en mejorar la atención médica. Trabajar en equipos para mantener equipos médicos funcionando al máximo y mejorar la calidad de vida de las personas es lo que me motiva. ¡Es genial poder marcar la diferencia en el campo de la salud.
 
-   ## Rol: Coordinador general
+   #### Rol: Coordinador general
 
    Encargado de supervisar los avances del equipo y mantener una buena comunicación entre el coodinador y el equipo
 
