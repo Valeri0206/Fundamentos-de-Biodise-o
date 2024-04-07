@@ -9,8 +9,7 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 Soy alumno de ingeniería biomédica con gustos en ingeniería clínica porque me permite combinar mi amor por la tecnología con mi interés en mejorar la atención médica. Trabajar en equipos para mantener equipos médicos funcionando al máximo y mejorar la calidad de vida de las personas es lo que me motiva.
 
    ### - *Rol: Coordinador general*
-
-   Encargado de supervisar los avances del equipo y mantener una asertiva comunicación entre el coodinador y el equipo.
+          Encargado de supervisar los avances del equipo y mantener una asertiva comunicación entre el coodinador y el equipo.
 
 ### 2. Andre Miguel Canchucaja Torres
 
