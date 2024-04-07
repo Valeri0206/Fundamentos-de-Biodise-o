@@ -17,7 +17,7 @@ Concevir los conocimientos que se llevarán a lo largo del curso, con el objetiv
 
    #### *Rol: Modelado y diseño 3D*
 
-   Encargado de diseñar el prototipo en la plataforma de Inventor, modelado e impresión 3D.
+   *Encargado de diseñar el prototipo en la plataforma de Inventor, modelado e impresión 3D.*
 
 ### 3. Andrea del Carmen Aliaga Alcantara
 
@@ -25,7 +25,7 @@ Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tej
 
    #### *Rol: Electrónica*
    
-   Encargada de supervisar y gestionar todas las actividades relacionadas con el diseño, desarrollo y funcionamiento de los componentes electrónicos
+   *Encargada de supervisar y gestionar todas las actividades relacionadas con el diseño, desarrollo y funcionamiento de los componentes electrónicos.*
 
 ### 4. Fabiana Maria Huiman Vasquez
 
@@ -33,7 +33,7 @@ Soy alumna de la carrera de Ingeniería biomédica. Mi área de interés es el d
 
    #### *Rol: Investigación y redacción*
 
-   Encargada de organizar los datos encontrados en la invetsigación y redacción de entregables.
+   *Encargada de organizar los datos encontrados en la invetsigación y redacción de entregables.*
 
 ### 5. Franco Eduardo Hurtado Mollinedo
 
@@ -41,7 +41,7 @@ Alumno de Ingeniería Biomédica con interés en el desarrollo de dispositivos b
  
    #### *Rol: Diseño del software*
 
-   Encargado de desarrollar y estructurar la interfaz del software que se va a utilizar.
+   *Encargado de desarrollar y estructurar la interfaz del software que se va a utilizar.*
    
 ### 6. Valeria Milagros Ccoa Banda 
 
@@ -49,5 +49,5 @@ Alumno de Ingeniería Biomédica con interés en el desarrollo de dispositivos b
 
    #### *Rol: Encargada del Github*
    
-   Encargada de gestionar todos los recursos que son parte del repositorio del Github.
+   *Encargada de gestionar todos los recursos que son parte del repositorio del Github.*
    
