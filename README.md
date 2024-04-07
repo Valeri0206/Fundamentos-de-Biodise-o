@@ -10,7 +10,7 @@ Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad m�
 
    #### Rol: Coordinador general
 
-     Encargado de supervisar los avances del equipo y mantener una buena comunicación entre el coodinador y el equipo
+   Encargado de supervisar los avances del equipo y mantener una buena comunicación entre el coodinador y el equipo
 
 2. Andre Miguel Canchucaja Torres
 
