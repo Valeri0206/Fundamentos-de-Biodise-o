@@ -1,6 +1,8 @@
 # Fundamentos de biodiseño
 El curso ofrece una visión completa sobre la aplicación de principios de diseño en la resolución de problemas en el ámbito de la salud. Cubre la identificación de problemas médicos, análisis de mercado y competencia, diseño de soluciones biomédicas, consideraciones éticas y regulatorias, y fomenta la colaboración interdisciplinaria. Nosotros aprendemos a desarrollar soluciones innovadoras y éticas, teniendo en cuenta las necesidades de los pacientes, estándares regulatorios y viabilidad comercial, preparándonos para abordar desafíos en el campo biomédico con enfoque integral y práctico.
 
+
+
 ![Imagen2](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/97d9e398-7d01-4792-a2b7-a2c3c0ac4caf)
 
 ## Integrantes:
