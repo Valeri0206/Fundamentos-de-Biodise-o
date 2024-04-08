@@ -11,7 +11,7 @@ El curso ofrece una visión completa sobre la aplicación de principios de dise�
 Estudiante de la carrera de Ingeniería Biomédica interesado en el desarrollo, mantenimiento y gestión de nuevos dispositivos médicos que permitan la mejora significativa del sector salud en el Peru.
 
    #### *Rol: Coordinador general*
-   *Supervisa los avances del equipo y mantener una asertiva comunicación entre el coodinador y el equipo.*
+   *Supervisa los avances del proyecto y mantiene una comunicación asertiva entre el coodinador y los miembros equipo.*
 
 ### 2. Andre Miguel Canchucaja Torres
 
