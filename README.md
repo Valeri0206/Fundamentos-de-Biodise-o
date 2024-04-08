@@ -8,7 +8,7 @@ El curso ofrece una visión completa sobre la aplicación de principios de dise�
 ## Integrantes:
 ### 1. Jose Martin Orellana Olortegui
 
-Soy alumno de ingeniería biomédica con gustos en ingeniería clínica porque me permite combinar mi amor por la tecnología con mi interés en mejorar la atención médica. Trabajar en equipos para mantener equipos médicos funcionando al máximo y mejorar la calidad de vida de las personas es lo que me motiva.
+Estudiante de la carrera de Ingeniería Biomédica interesado en el desarrollo, mantenimiento y gestión de nuevos dispositivos médicos que permitan la mejora significativa del sector salud en el Peru.
 
    #### *Rol: Coordinador general*
    *Supervisa los avances del equipo y mantener una asertiva comunicación entre el coodinador y el equipo.*
