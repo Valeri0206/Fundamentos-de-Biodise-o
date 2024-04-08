@@ -1,7 +1,7 @@
 # Fundamentos de biodiseño
 Diseñar, crear y fabricar prototipos funcionales que resuelvan una necesidad médica.
 
-![Imagen1](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/d6ca5e41-d2d8-473f-9c2e-41bf1e27fa30)
+![Imagen2](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/97d9e398-7d01-4792-a2b7-a2c3c0ac4caf)
 
 ## Integrantes:
 ### 1. Jose Martin Orellana Olortegui
