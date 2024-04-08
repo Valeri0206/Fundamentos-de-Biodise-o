@@ -50,4 +50,9 @@ Alumno de Ingeniería Biomédica con interés en el desarrollo de dispositivos b
    #### *Rol: Encargada del Github*
    
    *Encargada de gestionar todos los recursos que son parte del repositorio del Github.*
+
+## Definición de la problemática:
+
+## Estado del arte científico:
+
    
