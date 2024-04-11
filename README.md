@@ -8,7 +8,7 @@ El curso ofrece una visión completa sobre la aplicación de principios de dise�
 ## Integrantes:
 ### 1. Jose Martin Orellana Olortegui
 
-Estudiante de la carrera de Ingeniería Biomédica interesado en el desarrollo, mantenimiento y gestión de nuevos dispositivos médicos que permitan la mejora significativa del sector salud en el Perú.
+Estudiante de la carrera de Ingeniería Biomédica interesado en el desarrollo, mantenimiento y gestión de nuevos dispositivos médicos que permitan una mejora significativa en la salud de los peruanos.
 
    #### *Rol: Coordinador general*
    *Supervisa los avances del proyecto y mantiene una comunicación asertiva entre el coodinador y los miembros equipo.*
