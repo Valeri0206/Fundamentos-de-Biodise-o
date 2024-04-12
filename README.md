@@ -64,7 +64,9 @@ El equipo médico más utilizado en nuestro país para la detección de este cá
 <img width="477" alt="figura" src="https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/55d1ab2c-20de-4373-a0e9-b586cac98033">
 
 En la siguiente tabla se puede apreciar más a profundidad las características de las mujeres que se han realizado al menos una mamografía en los últimos 24 meses en 2019-2022. Un punto clave de la tabla es el descenso porcentual entre el 2019 y el 2022, en el 2019 el 17.7% de las mujeres se realizaron la prueba, en el 2020 un 14.2%, en el 2021 un 7.4% y en el 2022 un 9.2%. Respecto a su dominio de residencia, durante los 4 años de la muestra la costa es la que lidera la tabla con una mayor cantidad de mamografías, por ejemplo en el 2022 hubo un 11.9% en la costa, en la sierra un 4.1% y en la selva un 4.9%.
-![Captura de pantalla 2024-04-11 201702](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/d7bd3146-eb52-4f12-ae36-f99377e61933)
+![Captura de pantalla 2024-04-11 201702](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/f5e98255-4e79-42c7-9515-7c20826fd0f3)
+
+
 Existen distintas causalidades para estos resultados, algunos de ellos serían el presupuesto que requiere hacerse una mamografía, la saturación de los centros que brindan esta atención y posiblemente el miedo a obtener un resultado negativo.
 
 Uno de los 4 institutos oncológicos del Perú es el Instituto Nacional de Enfermedades Neoplásicas (INEN), este se encuentra ubicado en Lima al igual que los demás, lo que significa una gran desventaja para los pacientes de provincia. Según un tarifario del 2019 respecto al servicio de las mamografías en este instituto, su precio puede variar entre los 55-521 soles dependiendo a la aseguradora de salud del paciente y el tipo de mamografía.
