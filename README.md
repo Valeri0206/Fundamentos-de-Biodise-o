@@ -57,7 +57,20 @@ Alumno de Ingeniería Biomédica con interés en el desarrollo de dispositivos b
 
 ## Contexto en el Perú:
 
+Según el Ministerio de Salud (2020) el 90% de los casos de cáncer de mama detectados tienen una alta posibilidad de cura si se detecta en las etapas tempranas, sin embargo, esto no sucede en nuestro país ya que el 85% de casos detectados son de tipo avanzado.
+
+El equipo médico más utilizado en nuestro país para la detección de este cáncer es el mamógrafo; idealmente se sugiere a las mujeres mayores de 45 años y que tengan algunos factores de riesgo sacarse una mamografía anualmente para poder lograr una detección temprana. Como se puede observar en los datos de la figura brindada por la Encuesta Demográfica y de Salud Familiar (ENDES) 2022, tan solo el 8.9% de mujeres de 40 a 59 años se realizó al menos una mamografía en los últimos 24 meses, esta cifra se vuelve aún más alarmante en zonas rurales en donde esta cifra disminuye a un 2.4%.
+
+<img width="477" alt="figura" src="https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/55d1ab2c-20de-4373-a0e9-b586cac98033">
+
+En la siguiente tabla se puede apreciar más a profundidad las características de las mujeres que se han realizado al menos una mamografía en los últimos 24 meses en 2019-2022. Un punto clave de la tabla es el descenso porcentual entre el 2019 y el 2022, en el 2019 el 17.7% de las mujeres se realizaron la prueba, en el 2020 un 14.2%, en el 2021 un 7.4% y en el 2022 un 9.2%. Respecto a su dominio de residencia, durante los 4 años de la muestra la costa es la que lidera la tabla con una mayor cantidad de mamografías, por ejemplo en el 2022 hubo un 11.9% en la costa, en la sierra un 4.1% y en la selva un 4.9%.
+![Captura de pantalla 2024-04-11 201702](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/d7bd3146-eb52-4f12-ae36-f99377e61933)
+Existen distintas causalidades para estos resultados, algunos de ellos serían el presupuesto que requiere hacerse una mamografía, la saturación de los centros que brindan esta atención y posiblemente el miedo a obtener un resultado negativo.
+
+Uno de los 4 institutos oncológicos del Perú es el Instituto Nacional de Enfermedades Neoplásicas (INEN), este se encuentra ubicado en Lima al igual que los demás, lo que significa una gran desventaja para los pacientes de provincia. Según un tarifario del 2019 respecto al servicio de las mamografías en este instituto, su precio puede variar entre los 55-521 soles dependiendo a la aseguradora de salud del paciente y el tipo de mamografía.
+![Captura de pantalla 2024-04-11 204701](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/e92d2e6b-79e4-47f6-ad6f-e7894fdb9077)
 
 ## Estado del arte científico:
 
    
+
