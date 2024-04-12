@@ -55,6 +55,13 @@ Alumno de Ingeniería Biomédica con interés en el desarrollo de dispositivos b
 
 ## Contexto General:
 
+El cáncer de mama es una enfermedad maligna que se desarrolla en las células del tejido mamario, siendo más común en mujeres pero también presente en hombres. Sus factores de riesgo incluyen antecedentes familiares, mutaciones genéticas como BRCA1 y BRCA2 (genes que se identificaron como asociados a tipos hereditarios del cáncer de mama y de ovario), exposición a hormonas como estrógeno y progesterona, estilo de vida poco saludable como la obesidad y el consumo de alcohol, así como la exposición previa a radioterapia en el área del tórax.
+
+Cuando el tumor es más pequeño y más tratable, el cáncer de mama no presenta síntomas, por eso es crucial realizar pruebas de detección para su identificación temprana. Un bulto es el síntoma físico más típico, incluso antes de que el neoplasma mamario primario crezca lo suficiente como para ser palpable. Los síntomas menos comunes incluyen dolor o sensación de pesadez en el pecho, cambios crónicos del pezón como descamación o retracción.
+
+El tratamiento varía según el estadio y tipo de cáncer. En el estadio 0 es el carcinoma ductal in situ, que no es invasivo pero progresa a cáncer invasivo en hasta el 40% de los pacientes. El carcinoma ductal in situ se trata con lumpectomía y radiación o con mastectomía. Si el carcinoma ductal in situ tiene receptores de estrógeno positivos, los pacientes también pueden recibir terapia endocrina. Los estadios invasivos tempranos (I, IIa, IIb) y los estadios localmente avanzados (IIIa, IIIb, IIIc) no son metastásicos y tienen tres fases de tratamiento. La fase preoperatoria utiliza terapias endocrinas o inmunoterapias sistémicas cuando los tumores expresan receptores de estrógeno, progesterona o ERBB2. También se puede utilizar quimioterapia preoperatoria y es la única opción cuando los tumores no tienen ninguno de esos tres receptores. Existen dos opciones para la fase quirúrgica con tasas de supervivencia similares; una lumpectomía con radiación si el tumor se puede extirpar completamente con buenos resultados estéticos, o una mastectomía. La biopsia del ganglio linfático centinela también se realiza cuando se sospecha enfermedad ganglionar. La fase postoperatoria incluye radiación, terapia endocrina, inmunoterapia y quimioterapia. A las mujeres posmenopáusicas también se les deben ofrecer bifosfonatos posoperatorios. El cáncer de mama en estadio IV (metastásico) es tratable pero no curable. Los objetivos del tratamiento incluyen mejorar la duración y la calidad de vida.
+
+
 ## Contexto en el Perú:
 
 Según el Ministerio de Salud (2020) el 90% de los casos de cáncer de mama detectados tienen una alta posibilidad de cura si se detecta en las etapas tempranas, sin embargo, esto no sucede en nuestro país ya que el 85% de casos detectados son de tipo avanzado.
@@ -78,7 +85,7 @@ Por otro lado, muchos peruanos no programan un examen de descarte por miedo a te
 “El indicador Complemento de la razón mortalidad – incidencia en el INEN fue de 57,84%. Este resultado estaría asociado al gran impacto de la Pandemia sobre el paciente oncológico incrementando la mortalidad debido al retraso en el diagnóstico y mayor progresión de la enfermedad, sobre todo por disminución del acceso al diagnóstico y tratamiento durante el periodo de la Pandemia por Covid-19”
 
 ## Definición de la problemática:
- en una línea
+ **Alta tasa de mortalidad por diagnóstico tardío de cáncer de mama**
 ## Estado del arte científico:
 
    | Dispositivos de diagnóstico | Funcionalidad | Imagen de referencia |
