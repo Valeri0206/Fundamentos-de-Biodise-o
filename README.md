@@ -53,7 +53,7 @@ Alumno de Ingeniería Biomédica con interés en el desarrollo de dispositivos b
    
    *Gestiona todos los recursos que son parte del repositorio del Github.*
 
-## Definición de la problemática:
+## Contexto General:
 
 ## Contexto en el Perú:
 
@@ -77,6 +77,8 @@ Por otro lado, muchos peruanos no programan un examen de descarte por miedo a te
 
 “El indicador Complemento de la razón mortalidad – incidencia en el INEN fue de 57,84%. Este resultado estaría asociado al gran impacto de la Pandemia sobre el paciente oncológico incrementando la mortalidad debido al retraso en el diagnóstico y mayor progresión de la enfermedad, sobre todo por disminución del acceso al diagnóstico y tratamiento durante el periodo de la Pandemia por Covid-19”
 
+## Definición de la problemática:
+ en una línea
 ## Estado del arte científico:
 
    | Dispositivos | Descripción | Imagen |
@@ -85,3 +87,6 @@ Por otro lado, muchos peruanos no programan un examen de descarte por miedo a te
    | **Ultrasonido** | a | a |
    | **Biomarcadores** | a | a |
    | **Imagenología óptica** | a | a |
+
+## Lista de referencias:
+Ministerio de Salud. (19 de Octubre de 2020). https://www.gob.pe. Obtenido de El cáncer de mama tiene un 90% de probabilidades de curación si se detecta a tiempo: 118 https://www.gob.pe/institucion/minsa/noticias/308976-el-cancer-de-mama-tiene-un-90-de-probabilidades-de-curacion-si-se-detecta-a-tiempo 
