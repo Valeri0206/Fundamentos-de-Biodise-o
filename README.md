@@ -114,4 +114,6 @@ Velasquez, V. Portocarrero, S. Sánchez, B. Enfermedades No Transmisibles y Tran
 - [] Radiology (ACR) RS of NA (RSNA) and AC of. Ultrasound - Breast [Internet]. Radiologyinfo.org. 2018. Available from: https://www.radiologyinfo.org/en/info/breastus
 - [] Sood R, Rositch AF, Shakoor D, Ambinder E, Pool KL, Pollack E, et al. Ultrasound for Breast Cancer Detection Globally: A Systematic Review and Meta-Analysis. Journal of Global Oncology. 2019 Aug;5(5):1–17.
 - [] What are biomarkers and biomarker tests? [Internet]. Breastcancer.org. [citado el 10 de abril de 2024]. Disponible en: https://www.breastcancer.org/screening-testing/tumor-marker-tests 
-
+- [] Kashyap D, Pal D, Sharma R, Garg VK, Goel N, Koundal D, et al. Global increase in breast cancer incidence: Risk factors and preventive measures. Biomed Res Int [Internet]. 2022 [citado el 12 de abril de 2024];2022:1–16. Disponible en: https://www.hindawi.com/journals/bmri/2022/9605439/
+- [] Budzik MP, Patera J, Sobol M, Czerw AI, Deptała A, Badowska-Kozakiewicz AM. Clinicopathological characteristics of metaplastic breast cancer - analysis of the basic immunohistochemical profile and comparison with other invasive breast cancer types. Breast [Internet]. 2019;43:135–41. Available from: http://dx.doi.org/10.1016/j.breast.2018.12.004
+- [] Zavala VA, Casavilca-Zambrano S, Navarro-Vásquez J, Tamayo LI, Castañeda CA, Valencia G, et al. Breast cancer subtype and clinical characteristics in women from Peru. Front Oncol [Internet]. 2023;13:938042. Available from: http://dx.doi.org/10.3389/fonc.2023.938042 
