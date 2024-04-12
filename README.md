@@ -101,3 +101,11 @@ Por otro lado, muchos peruanos no programan un examen de descarte por miedo a te
 
 ## Lista de referencias:
 Ministerio de Salud. (19 de Octubre de 2020). https://www.gob.pe. Obtenido de El cáncer de mama tiene un 90% de probabilidades de curación si se detecta a tiempo: 118 https://www.gob.pe/institucion/minsa/noticias/308976-el-cancer-de-mama-tiene-un-90-de-probabilidades-de-curacion-si-se-detecta-a-tiempo 
+Velasquez, V. Portocarrero, S. Sánchez, B. Enfermedades No Transmisibles y Transmisibles 2022. [Internet]. https://proyectos.inei.gob.pe/  [citado el 11 de abril de 2024]. Available from: https://proyectos.inei.gob.pe/endes/2022/SALUD/ENFERMEDADES_ENDES_2022.pdf 
+
+
+IPSOS. La mitad de los peruanos no se sienten adecuadamente protegidos contra el cáncer
+. [Internet]. https://www.ipsos.com/ [citado el 11 de abril de 2024]. Available from: https://www.ipsos.com/es-pe/la-mitad-de-los-peruanos-no-se-sienten-adecuadamente-protegidos-contra-el-cancer
+
+Comisión de Planeamiento Estratégico de INEN. INFORME DE EVALUACION DE RESULTADO PEI-POI DEL PLAN ESTRATÉGICO INSTITUCIONAL 2022-2025.[Internet]. https://portal.inen.sld.pe/. [citado el 11 de abril de 2024]. Available from: https://portal.inen.sld.pe/wp-content/uploads/2023/05/FINAL-EVALUACION-DE-RESULTADOS-PEI-POI-2022-2025-2022.pdf 
+
