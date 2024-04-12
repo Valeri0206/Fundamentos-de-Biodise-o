@@ -71,15 +71,14 @@ El equipo médico más utilizado en nuestro país para la detección de este cá
 <img width="549" alt="Captura de pantalla 2024-04-12 002237" src="https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/d6bd89e5-6db1-46fc-b2f3-dcb386f3fac6">
 
 En la siguiente tabla se puede apreciar más a profundidad las características de las mujeres que se han realizado al menos una mamografía en los últimos 24 meses en 2019-2022. Un punto clave de la tabla es el descenso porcentual entre el 2019 y el 2022, en el 2019 el 17.7% de las mujeres se realizaron la prueba, en el 2020 un 14.2%, en el 2021 un 7.4% y en el 2022 un 9.2%. Respecto a su dominio de residencia, durante los 4 años de la muestra la costa es la que lidera la tabla con una mayor cantidad de mamografías, por ejemplo en el 2022 hubo un 11.9% en la costa, en la sierra un 4.1% y en la selva un 4.9%.
-<img width="577" alt="Captura de pantalla 2024-04-12 002423" src="https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/c22f08cb-5cbe-447f-b427-2a73abee30cc">
 
+<img width="577" alt="Captura de pantalla 2024-04-12 002423" src="https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/c22f08cb-5cbe-447f-b427-2a73abee30cc">
 
 Existen distintas causalidades para estos resultados, algunos de ellos serían el presupuesto que requiere hacerse una mamografía, la saturación de los centros que brindan esta atención y posiblemente el miedo a obtener un resultado negativo.
 
 Uno de los 4 institutos oncológicos del Perú es el Instituto Nacional de Enfermedades Neoplásicas (INEN), este se encuentra ubicado en Lima al igual que los demás, lo que significa una gran desventaja para los pacientes de provincia. Según un tarifario del 2019 respecto al servicio de las mamografías en este instituto, su precio puede variar entre los 55-521 soles dependiendo a la aseguradora de salud del paciente y el tipo de mamografía.
 
 <img width="772" alt="Captura de pantalla 2024-04-12 002721" src="https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/fcafcc31-6556-4d81-a626-e003e910a333">
-
 
 Por otro lado, muchos peruanos no programan un examen de descarte por miedo a tener que combatir el cáncer, y cuando deciden hacerlo la enfermedad ya ha progresado bastante. Según una encuesta de Ipsos Perú, “solamente el 34% de personas se sienten listas para enfrentar esta enfermedad a nivel de acceso al tratamiento médico y económicamente”. Hay otro factor que ha generado el miedo a la enfermedad y es la pandemia del Coronavirus la cual ha generado que un centro médico sea un lugar con un riesgo de infección alta y solo acudir a él cuando el cáncer ya esté en una etapa avanzada, esto se puede ver reflejado tanto en la Tabla 1 mostrada como la interpretación brindada por el INEN respecto a su tasa de mortalidad:
 
