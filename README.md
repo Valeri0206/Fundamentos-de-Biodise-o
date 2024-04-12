@@ -81,12 +81,12 @@ Por otro lado, muchos peruanos no programan un examen de descarte por miedo a te
  en una línea
 ## Estado del arte científico:
 
-   | Dispositivos | Descripción | Imagen |
-   |-------|---------|---------|
-   | **Termografía** | a | a |
-   | **Ultrasonido** | a | a |
-   | **Biomarcadores** | a | a |
-   | **Imagenología óptica** | a | a |
+   | Dispositivos de diagnóstico | Funcionalidad | Imagen de referencia |
+   |:-------:|---------|:---------:|
+   | **Termografía** | a | ![Termografía](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/04eb8b5f-4016-42e5-9214-c23ff726fa0c) |
+   | **Ultrasonido** | a | ![Ultrasonido](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/eb2b8b49-c21f-4258-99a8-742b3404d0bc) |
+   | **Biomarcadores** | a | ![Biomarcadores](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/92aa1330-650f-4d99-8b0e-034fdcba1282) |
+   | **Imagenología óptica** | a | ![Imagenologia](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/a33b184c-25eb-4a0f-b646-fbc8760043f0) |
 
 ## Lista de referencias:
 Ministerio de Salud. (19 de Octubre de 2020). https://www.gob.pe. Obtenido de El cáncer de mama tiene un 90% de probabilidades de curación si se detecta a tiempo: 118 https://www.gob.pe/institucion/minsa/noticias/308976-el-cancer-de-mama-tiene-un-90-de-probabilidades-de-curacion-si-se-detecta-a-tiempo 
