@@ -84,6 +84,10 @@ Por otro lado, muchos peruanos no programan un examen de descarte por miedo a te
 
 “El indicador Complemento de la razón mortalidad – incidencia en el INEN fue de 57,84%. Este resultado estaría asociado al gran impacto de la Pandemia sobre el paciente oncológico incrementando la mortalidad debido al retraso en el diagnóstico y mayor progresión de la enfermedad, sobre todo por disminución del acceso al diagnóstico y tratamiento durante el periodo de la Pandemia por Covid-19”
 
+## Diagrama de Ishikawa
+
+![Diagrama de Ishikawa](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/7bf63760-6c06-48a9-9766-877fd4ca0311)
+
 ## Definición de la problemática:
  **Alta tasa de mortalidad por diagnóstico tardío de cáncer de mama**
 ## Estado del arte científico:
