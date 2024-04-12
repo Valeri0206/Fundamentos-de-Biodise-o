@@ -70,7 +70,9 @@ En la siguiente tabla se puede apreciar más a profundidad las características 
 Existen distintas causalidades para estos resultados, algunos de ellos serían el presupuesto que requiere hacerse una mamografía, la saturación de los centros que brindan esta atención y posiblemente el miedo a obtener un resultado negativo.
 
 Uno de los 4 institutos oncológicos del Perú es el Instituto Nacional de Enfermedades Neoplásicas (INEN), este se encuentra ubicado en Lima al igual que los demás, lo que significa una gran desventaja para los pacientes de provincia. Según un tarifario del 2019 respecto al servicio de las mamografías en este instituto, su precio puede variar entre los 55-521 soles dependiendo a la aseguradora de salud del paciente y el tipo de mamografía.
-![Captura de pantalla 2024-04-11 204701](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/e92d2e6b-79e4-47f6-ad6f-e7894fdb9077)
+
+![Captura de pantalla 2024-04-11 204701](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/4df70083-5136-488e-8516-d3b0df731a11)
+
 
 ## Estado del arte científico:
 
