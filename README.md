@@ -73,6 +73,9 @@ Uno de los 4 institutos oncológicos del Perú es el Instituto Nacional de Enfer
 
 ![Captura de pantalla 2024-04-11 204701](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/4df70083-5136-488e-8516-d3b0df731a11)
 
+Por otro lado, muchos peruanos no programan un examen de descarte por miedo a tener que combatir el cáncer, y cuando deciden hacerlo la enfermedad ya ha progresado bastante. Según una encuesta de Ipsos Perú, “solamente el 34% de personas se sienten listas para enfrentar esta enfermedad a nivel de acceso al tratamiento médico y económicamente”. Hay otro factor que ha generado el miedo a la enfermedad y es la pandemia del Coronavirus la cual ha generado que un centro médico sea un lugar con un riesgo de infección alta y solo acudir a él cuando el cáncer ya esté en una etapa avanzada, esto se puede ver reflejado tanto en la Tabla 1 mostrada como la interpretación brindada por el INEN respecto a su tasa de mortalidad:
+
+“El indicador Complemento de la razón mortalidad – incidencia en el INEN fue de 57,84%. Este resultado estaría asociado al gran impacto de la Pandemia sobre el paciente oncológico incrementando la mortalidad debido al retraso en el diagnóstico y mayor progresión de la enfermedad, sobre todo por disminución del acceso al diagnóstico y tratamiento durante el periodo de la Pandemia por Covid-19”
 
 ## Estado del arte científico:
 
