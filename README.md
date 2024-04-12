@@ -68,7 +68,8 @@ Según el Ministerio de Salud (2020) el 90% de los casos de cáncer de mama dete
 
 El equipo médico más utilizado en nuestro país para la detección de este cáncer es el mamógrafo; idealmente se sugiere a las mujeres mayores de 45 años y que tengan algunos factores de riesgo sacarse una mamografía anualmente para poder lograr una detección temprana. Como se puede observar en los datos de la figura brindada por la Encuesta Demográfica y de Salud Familiar (ENDES) 2022, tan solo el 8.9% de mujeres de 40 a 59 años se realizó al menos una mamografía en los últimos 24 meses, esta cifra se vuelve aún más alarmante en zonas rurales en donde esta cifra disminuye a un 2.4%.
 
-<img width="477" alt="figura" src="https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/55d1ab2c-20de-4373-a0e9-b586cac98033">
+<img width="549" alt="Captura de pantalla 2024-04-12 002237" src="https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/d6bd89e5-6db1-46fc-b2f3-dcb386f3fac6">
+
 
 En la siguiente tabla se puede apreciar más a profundidad las características de las mujeres que se han realizado al menos una mamografía en los últimos 24 meses en 2019-2022. Un punto clave de la tabla es el descenso porcentual entre el 2019 y el 2022, en el 2019 el 17.7% de las mujeres se realizaron la prueba, en el 2020 un 14.2%, en el 2021 un 7.4% y en el 2022 un 9.2%. Respecto a su dominio de residencia, durante los 4 años de la muestra la costa es la que lidera la tabla con una mayor cantidad de mamografías, por ejemplo en el 2022 hubo un 11.9% en la costa, en la sierra un 4.1% y en la selva un 4.9%.
 ![Captura de pantalla 2024-04-11 201702](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/f5e98255-4e79-42c7-9515-7c20826fd0f3)
