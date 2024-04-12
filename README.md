@@ -79,5 +79,9 @@ Por otro lado, muchos peruanos no programan un examen de descarte por miedo a te
 
 ## Estado del arte científico:
 
-   
-
+   | Dispositivos | Descripción | Imagen |
+   |-------|---------|---------|
+   | **Termografía** | a | a |
+   | **Ultrasonido** | a | a |
+   | **Biomarcadores** | a | a |
+   | **Imagenología óptica** | a | a |
