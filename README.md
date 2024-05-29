@@ -3,12 +3,12 @@ El curso ofrece una visión completa sobre la aplicación de principios de dise�
 
 
 
-![Imagen2](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/97d9e398-7d01-4792-a2b7-a2c3c0ac4caf)
+![Imagen2](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164529958/ae17da90-5edc-4668-84da-6b737ac3b29c)
 
 ## Integrantes:
-### 1. Jose Martin Orellana Olortegui
+### 1. Andrea del Carmen Aliaga Alcantara
 
-Estudiante de la carrera de Ingeniería Biomédica interesado en el desarrollo, mantenimiento y gestión de nuevos dispositivos médicos que permitan una mejora significativa en la salud de los peruanos.
+Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tejidos y biotecnología. Espero obtener nuevos conocimientos y compartir con los demás.
 
    #### *Rol: Coordinador general*
    *Supervisa los avances del proyecto y mantiene una comunicación asertiva entre el coodinador y los miembros equipo.*
@@ -21,9 +21,9 @@ Concevir los conocimientos que se llevarán a lo largo del curso, con el objetiv
 
    *Diseña el prototipo en la plataforma de Inventor, modelado e impresión 3D.*
 
-### 3. Andrea del Carmen Aliaga Alcantara
+### 3. Jose Martin Orellana Olortegui
 
-Alumna de la carrera de ingeniería biomedica con interés en ingeniería de tejidos y biotecnología. Espero obtener nuevos conocimientos y compartir con los demás.
+Estudiante de la carrera de Ingeniería Biomédica interesado en el desarrollo, mantenimiento y gestión de nuevos dispositivos médicos que permitan una mejora significativa en la salud de los peruanos.
 
    #### *Rol: Electrónica*
    
