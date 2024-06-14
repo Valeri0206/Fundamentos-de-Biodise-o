@@ -1,12 +1,6 @@
 ## Hito 1
 ### Canva
 Link: https://www.canva.com/design/DAGGfmHgcHM/_pzXoEKx1Wtux8VPa58HWg/edit?utm_content=DAGGfmHgcHM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-![17](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/188531ac-33da-4c1c-856b-35106b40be82)
-![16](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/f1b8bd54-9c72-4d85-92b5-76792873ee01)
-![15](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/e3abac1a-3681-4a45-a4af-f2396cc2b0e3)
-![14](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/5779fda6-2004-4a54-850f-82357e50f190)
-
-
 
 ![1](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/f742dab4-5590-4395-be67-10814abaeb4a)
 ![2](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/e0657ea7-d67c-4ab4-ba62-fb90d38144fb)
@@ -21,7 +15,7 @@ Link: https://www.canva.com/design/DAGGfmHgcHM/_pzXoEKx1Wtux8VPa58HWg/edit?utm_c
 ![11](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/8f3f72d2-d91e-498e-86ca-4be699e46614)
 ![12](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/002596b3-7767-43d2-8701-c225ddc6785d)
 ![13](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/86b81988-070c-47ab-bd9d-170ba8079978)
-
-
-
-
+![14](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/5779fda6-2004-4a54-850f-82357e50f190)
+![15](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/e3abac1a-3681-4a45-a4af-f2396cc2b0e3)
+![16](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/f1b8bd54-9c72-4d85-92b5-76792873ee01)
+![17](https://github.com/Valeri0206/Fundamentos-de-Biodise-o/assets/164528953/188531ac-33da-4c1c-856b-35106b40be82)
