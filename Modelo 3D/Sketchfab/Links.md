@@ -1,5 +1,8 @@
-### Carcasa:
-https://skfb.ly/oWzTF
+### Muñequera:
+https://skfb.ly/oXzF8
 
 ### Tapa:
-https://skfb.ly/oWzTK
+https://skfb.ly/oXzGC
+
+### Dedal:
+https://skfb.ly/oXzHC
