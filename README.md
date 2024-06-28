@@ -116,4 +116,15 @@ Velasquez, V. Portocarrero, S. Sánchez, B. Enfermedades No Transmisibles y Tran
 - [] Sood R, Rositch AF, Shakoor D, Ambinder E, Pool KL, Pollack E, et al. Ultrasound for Breast Cancer Detection Globally: A Systematic Review and Meta-Analysis. Journal of Global Oncology. 2019 Aug;5(5):1–17.
 - [] What are biomarkers and biomarker tests? [Internet]. Breastcancer.org. [citado el 10 de abril de 2024]. Disponible en: https://www.breastcancer.org/screening-testing/tumor-marker-tests 
 - [] Kashyap D, Pal D, Sharma R, Garg VK, Goel N, Koundal D, et al. Global increase in breast cancer incidence: Risk factors and preventive measures. Biomed Res Int [Internet]. 2022 [citado el 12 de abril de 2024];2022:1–16. Disponible en: https://www.hindawi.com/journals/bmri/2022/9605439/
-- [] Zavala VA, Casavilca-Zambrano S, Navarro-Vásquez J, Tamayo LI, Castañeda CA, Valencia G, et al. Breast cancer subtype and clinical characteristics in women from Peru. Front Oncol [Internet]. 2023;13:938042. Available from: http://dx.doi.org/10.3389/fonc.2023.938042 
+- [] Zavala VA, Casavilca-Zambrano S, Navarro-Vásquez J, Tamayo LI, Castañeda CA, Valencia G, et al. Breast cancer subtype and clinical characteristics in women from Peru. Front Oncol [Internet]. 2023;13:938042. Available from: http://dx.doi.org/10.3389/fonc.2023.938042
+- [] Egorov V, Sarvazyan AP. Mechanical imaging of the breast. IEEE Trans Med Imaging. 2008 Sep;27(9):1275-87. doi: 10.1109/TMI.2008.922192. PMID: 18753043; PMCID: PMC2581459.
+- [] Kim, Kyungrim, Taeyang Kim, Jinwook Kim, and Xiaoning Jiang. 2020. "A Face-Shear Mode Piezoelectric Array Sensor for Elasticity and Force Measurement" Sensors 20, no. 3: 604. https://doi.org/10.3390/s20030604
+- [] Nakatani M, Fukuda T, Arakawa N, Kawasoe T, Omata S. Softness sensor system for simultaneously measuring the mechanical properties of superficial skin layer and whole skin. Skin Res Technol. 2013 Feb;19(1):e332-8. doi: 10.1111/j.1600-0846.2012.00648.x. Epub 2012 Jun 7. PMID: 22672219.
+- [] D. J. Gavaghan, J. P. Whiteley, S. J. Chapman, J. M. Brady and P. Pathmanathan, "Predicting Tumor Location by Modeling the Deformation of the Breast," in IEEE Transactions on Biomedical Engineering, vol. 55, no. 10, pp. 2471-2480, Oct. 2008, doi: 10.1109/TBME.2008.925714.
+keywords: {Breast neoplasms;Deformable models;Predictive models;Elasticity;Shape;Ultrasonic imaging;Mammography;Image coding;Breast biopsy;Surgery;Breast;deformation;imaging;mechanics},
+-[] P. Peng, R. Rajamani and A. G. Erdman, "Flexible Tactile Sensor for Tissue Elasticity Measurements," in Journal of Microelectromechanical Systems, vol. 18, no. 6, pp. 1226-1233, Dec. 2009, doi: 10.1109/JMEMS.2009.2034391.
+keywords: {Tactile sensors;Elasticity;Sensor arrays;Capacitors;Force measurement;Prototypes;Biological materials;Capacitive sensors;Biomembranes;Polymers;Capacitive sensor;flexible;polydimethylsiloxane (PDMS);tactile sensor;tissue elasticity},
+-[] Toledo, J.; Ruiz-Díez, V.; Hernando-García, J.; Sánchez-Rojas, J.L. Piezoelectric Actuators for Tactile and Elasticity Sensing. Actuators 2020, 9, 21. https://doi.org/10.3390/act9010021
+-[] Kim K, Kim T, Kim J, Jiang AX. A Face-Shear Mode Piezoelectric Array Sensor for Elasticity and Force Measurement. Sensors (Basel). 2020 Jan 22;20(3):604. doi: 10.3390/s20030604. PMID: 31978965; PMCID: PMC7038069.
+
+
