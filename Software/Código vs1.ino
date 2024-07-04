@@ -24,6 +24,9 @@ const float forceMax = 10.0;  // 10 Newtons (valor máximo de fuerza)
 const float radius = 0.0147/2;  // Radio en metros
 const float area = 3.141592653589793 * radius * radius;
 
+// Factor de rigidez relativa
+const float rigidityFactor = 1.5;
+
 void setup() {
   // Configura los pines de los LEDs como salida
 
@@ -50,6 +53,36 @@ float forceToPascal(float force) {
   return force / area;
 }
 
+void checkForRigidity(float avgForce, float pressure1, float pressure3) {
+  float rigidityThreshold = avgForce * rigidityFactor;
+
+  Serial.print("Sensor 3: ");
+  Serial.print(pressure3);
+  Serial.println("N ");
+  Serial.print("Sensor 1: ");
+  Serial.print(pressure1);
+  Serial.println("N");
+
+  Serial.print("promedio qsy:");
+  Serial.print(rigidityThreshold);
+  
+  //if (pressure1 > rigidityThreshold) {
+   // Serial.println("Zona rígida detectada en el sensor 2.");
+    //BTSerial.println("Zona rígida detectada en el sensor 2.");
+  //} else {
+  //  Serial.println("No se detectó zona rígida en el sensor 2.");
+  //  BTSerial.println("No se detectó zona rígida en el sensor 2.");
+ // }
+  
+  //if (pressure3 > rigidityThreshold) {
+  //  Serial.println("Zona rígida detectada en el sensor 3.");
+  //  BTSerial.println("Zona rígida detectada en el sensor 3.");
+  //} else {
+  //  Serial.println("No se detectó zona rígida en el sensor 3.");
+  //  BTSerial.println("No se detectó zona rígida en el sensor 3.");
+  //}
+}
+
 void loop() {
   // Lee los valores de los sensores FSR
   fsrReading1 = analogRead(pinFSR1);
@@ -70,21 +103,21 @@ void loop() {
   float pressure4 = forceToPascal(force4);
 
   // Imprime los valores de los sensores y presiones en la consola serial
-  Serial.print("Lectura_FSR1: ");
-  Serial.print(fsrReading1);
-  Serial.print(" Fuerza: ");
-  Serial.print(force1);
-  Serial.print(" N, Presión: ");
-  Serial.print(pressure1);
-  Serial.println(" Pa");
+  //Serial.print("Lectura_FSR1: ");
+  //Serial.print(fsrReading1);
+  //Serial.print(" Fuerza: ");
+  //Serial.print(force1);
+  //Serial.print(" N, Presión: ");
+  //Serial.print(pressure1);
+  // Serial.println(" Pa");
 
-  Serial.print("Lectura_FSR2: ");
-  Serial.print(fsrReading2);
-  Serial.print(" Fuerza: ");
-  Serial.print(force2);
-  Serial.print(" N, Presión: ");
-  Serial.print(pressure2);
-  Serial.println(" Pa");
+  //Serial.print("Lectura_FSR2: ");
+  //Serial.print(fsrReading2);
+  //Serial.print(" Fuerza: ");
+  //Serial.print(force2);
+  //Serial.print(" N, Presión: ");
+  //Serial.print(pressure2);
+  //Serial.println(" Pa");
 
   //Serial.print("Lectura_FSR3: ");
   //Serial.print(fsrReading3);
@@ -134,21 +167,25 @@ void loop() {
   BTSerial.print(pressure4);
   BTSerial.println(" Pa");
 
+  // Calcula el promedio de las fuerzas
+  float avgForce = (pressure1 + pressure3) / 2;
+
   // Control de los LEDs basado en las lecturas de los sensores
 
-  if (fsrReading2 > 920 && fsrReading2 < 1020) {
+  if (fsrReading2 > 715 && fsrReading2 < 875) {
     digitalWrite(pinLED1, HIGH);  // Enciende el LED1 si está en el rango
   } else {
     digitalWrite(pinLED1, LOW);  // Apaga el LED1 si no está en el rango
   }
 
-  if (fsrReading3 > 920 && fsrReading3 < 1020) {
+  if (fsrReading4 > 715 && fsrReading4 < 875) {
     digitalWrite(pinLED2, HIGH);  // Enciende el LED1 si está en el rango
   } else {
     digitalWrite(pinLED2, LOW);  // Apaga el LED1 si no está en el rango
   }
 
-
+  // Verifica si hay una zona rígida en los sensores 2 y 3
+  checkForRigidity(avgForce, pressure1, pressure3);
 
   delay(100);  // Pequeña pausa para no saturar la salida serial
 }
